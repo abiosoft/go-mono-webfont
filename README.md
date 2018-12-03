@@ -1,2 +1,2 @@
-# go-mono-webfont
-Go Mono Powerline web font
+# webfont-mono
+Go Mono and Dejavu Sans Mono
